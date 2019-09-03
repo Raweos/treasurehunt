@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.rk
+---
+testFramework: spock
+sourceLanguage: groovy
